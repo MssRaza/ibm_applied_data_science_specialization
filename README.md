@@ -1,1 +1,1 @@
-# ibmAppliedScienceSpecialization
+# Ibm Applied Data Science Specialization
